@@ -1,4 +1,5 @@
 # mail
-Web mail client
-Backend с Камаева
-Frontend с Гуденкова
+Web mail client<br>
+Backend с Камаева<br>
+Frontend с Гуденкова<br>
+Design с Кольцова
